@@ -24,7 +24,7 @@ header .img{
 }
 
 header .logo{
-  height: 60px;
+  height: min-content;
 }
 
 
@@ -32,7 +32,7 @@ h1{
   font-size: 4rem
 }
 
-span{
+span {
   background: yellow ;
 }
 
@@ -83,8 +83,9 @@ th{
   color: white;
 }
 
-tr .second{
-  background:aqua ;
-  color: black;
+tr:nth-child(odd){
+  background: aqua;
+  
 }
+
 
