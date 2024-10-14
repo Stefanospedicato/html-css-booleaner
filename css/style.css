@@ -21,8 +21,6 @@ header .logo{
   height: 60px;
 }
 
-head
-}
 
 h1{
   font-size: 4rem
@@ -57,12 +55,6 @@ span{
   text-align: left
 }
 
-.th {
-  background-color: blue
-  color:white;
-blue)
-}
-
 .finale{
 color: grey;
 font-size: 1.5rem
@@ -74,6 +66,7 @@ font-size: 1.5rem
 
 section table{
   border: 1px;
+  align-items: baseline;
 }
 
 th{
@@ -81,3 +74,9 @@ th{
   ;
   color: white;
 }
+
+tr .second{
+  background:aqua ;
+  color: black;
+}
+
