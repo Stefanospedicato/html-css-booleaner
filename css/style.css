@@ -21,5 +21,16 @@ height:20px;
 }
 
 h1{
- 
+  font-size: 4rem
+}
+
+.primary-text{
+  color: grey
+  ;
+  font-size: 1.5rem;
+}
+
+.primary-text span{
+  color:rgb(163, 232, 255);
+
 }
