@@ -10,11 +10,17 @@ header #pattern{
   width: 100%;
   background-color:rgb(78, 161, 255);
   background-image: url(pattern.png);
-  background-size: 60px;
+  background: size 100%;
 }
 
 header #pattern img{
-  height: 30px;
+  height: 110px;
+  
+}
+
+header .img{
+  width: 100%;
+  height: 200px;
 }
 
 header .logo{
@@ -57,16 +63,18 @@ span{
 
 .finale{
 color: grey;
-font-size: 1.5rem
+font-size: 1.5rem;
+font-weight: bold;
 }
 
-.lorem{
-  background-image: url(monitor.jpg);
+p .lorem{
+  background-image:url("graph.jpg");
 }
 
 section table{
   border: 1px;
   align-items: baseline;
+  ;
 }
 
 th{
