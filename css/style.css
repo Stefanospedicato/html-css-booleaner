@@ -1,0 +1,25 @@
+body{
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+  background-color:rgb(78, 161, 255);
+;
+}
+
+header .logo{
+width: 260px;;
+height: 80px;
+}
+
+header .pattern{
+width: 1320x;
+height:20px;
+}
+
+h1{
+ 
+}
