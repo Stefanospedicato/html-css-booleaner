@@ -28,6 +28,9 @@ h1{
   font-size: 4rem
 }
 
+span{
+  background: yellow ;
+}
 
 .primary-text{
   color: grey
@@ -38,10 +41,6 @@ h1{
 .primary-text span{
   color:rgb(163, 232, 255);
 
-}
-
-span{
-  background-color: yellow;
 }
 
 .didascalia {
@@ -60,7 +59,8 @@ span{
 
 .th {
   background-color: blue
-
+  color:white;
+blue)
 }
 
 .finale{
@@ -70,4 +70,14 @@ font-size: 1.5rem
 
 .lorem{
   background-image: url(monitor.jpg);
+}
+
+section table{
+  border: 1px;
+}
+
+th{
+  background: lightskyblue
+  ;
+  color: white;
 }
