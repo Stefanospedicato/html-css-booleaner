@@ -2,27 +2,32 @@ body{
   background-color: white;
   color: black;
   font-size: 16px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Times New Roman', Times, serif;
 }
 
-header{
+header #pattern{
+  height: 140px;
+  width: 100%;
   background-color:rgb(78, 161, 255);
-;
+  background-image: url(pattern.png);
+  background-size: 60px;
+}
+
+header #pattern img{
+  height: 30px;
 }
 
 header .logo{
-width: 260px;;
-height: 80px;
+  height: 60px;
 }
 
-header .pattern{
-width: 1320x;
-height:20px;
+head
 }
 
 h1{
   font-size: 4rem
 }
+
 
 .primary-text{
   color: grey
@@ -35,6 +40,34 @@ h1{
 
 }
 
-.didascalia{
+span{
+  background-color: yellow;
+}
+
+.didascalia {
   font-size: 0.8rem;
+}
+
+.secondary-text span {
+  text-decoration: dotted;
+  text-decoration-color: yellow;
+
+}
+
+.elenco {
+  text-align: left
+}
+
+.th {
+  background-color: blue
+
+}
+
+.finale{
+color: grey;
+font-size: 1.5rem
+}
+
+.lorem{
+  background-image: url(monitor.jpg);
 }
